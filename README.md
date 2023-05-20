@@ -2,7 +2,7 @@
 
 Kaggle: https://www.kaggle.com/competitions/thai-handwritten-characters-recognition
 
-### Assess yourself for this round of competition.
+### Assess myself for this round of competition.
 
 | 💚  | 💛 | ❤️ |
 | --- | --- | --- |
