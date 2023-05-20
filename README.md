@@ -8,4 +8,4 @@ Kaggle: https://www.kaggle.com/competitions/thai-handwritten-characters-recognit
 | --- | --- | --- |
 | Good | Fairly Good  | Poor |
 
-No. 47 ---> private_score 0.35120 ❤️
+No. 47 ---> private_score 0.01867 ❤️
